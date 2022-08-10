@@ -8,9 +8,10 @@ This repository aims to collect as much as possible of the relevant laws (acts) 
 
 Gradually, the sub-folders will be created once there're group of specific domains are relevant within certain markets.
 
-| Americas     | APAC | Europe | Africa |
-| ------------ | ---- | ------ | ------ |
-| [USA](./USA) |      |        |        |
+| Americas     | APAC             | Europe             | Africa |
+| ------------ | ---------------- | ------------------ | ------ |
+| [USA](./USA) | [China](./China) | [France](./France) |        |
+|              | [India](./India) |                    |        |
 
 
 
